@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7058673-4e35-4cc5-a537-57fd0e9cdf6c" name="Changes" comment="Turtle window set up">
+    <list default="true" id="f7058673-4e35-4cc5-a537-57fd0e9cdf6c" name="Changes" comment="Game logic implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -74,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1759511657194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Game logic implemented">
+      <option name="closed" value="true" />
+      <created>1759517007192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759517007192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Turtle window set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Turtle window set up" />
+    <MESSAGE value="Game logic implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game logic implemented" />
   </component>
 </project>
